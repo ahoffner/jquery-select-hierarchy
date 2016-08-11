@@ -1,0 +1,20 @@
+{
+  "name": "ahoffner/jquery-select-hierarchy",
+  "version": "0.2",
+  "description": "Single select box into multiple dynamic ones",
+  "authors": [
+    {
+      "name": "Andrew Ingram",
+      "homepage": "https://github.com/AndrewIngram/"
+    },
+    {
+      "name": "Andy Hoffner",
+      "homepage": "http://andyhoffner.com"
+    }
+  ],
+  "keywords": [
+    "plugin",
+    "select"
+  ],
+  "license": "MIT"
+}
